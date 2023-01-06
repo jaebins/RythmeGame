@@ -1,0 +1,11 @@
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\bin\Debug\Rythme Game.exe.config
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\bin\Debug\Rythme Game.exe
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\bin\Debug\Rythme Game.pdb
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.csproj.AssemblyReference.cache
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.csproj.SuggestedBindingRedirects.cache
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme_Game.Properties.Resources.resources
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.csproj.GenerateResource.cache
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.csproj.CoreCompileInputs.cache
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.exe
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme Game.pdb
+D:\Jaebin\Programing\c#\Rythme Game\Rythme Game\obj\Debug\Rythme_Game.Main.resources
